@@ -1,0 +1,57 @@
+{
+	"pages": [
+		//pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/run/run/run",
+			"style": {}
+		},
+		{
+			"path": "pages/found/found/found",
+			"style": {}
+		},
+		{
+			"path": "pages/me/me/me",
+			"style": {}
+		},
+		{
+			"path": "pages/talk/talk/talk",
+			"style": {}
+		},
+		{
+			"path": "pages/login/login/login"
+		}
+	],
+	"globalStyle": {
+		"navigationStyle": "custom" //导航栏样式关闭
+	},
+	"tabBar": {
+		"color": "#8a8a8a",
+		"selectedColor": "#515151",
+		"backgroundColor": "white",
+		"list": [{
+				"pagePath": "pages/run/run/run",
+				"text": "跑步",
+				"iconPath": "static/topBar-icon/paobu.png",
+				"selectedIconPath": "static/topBar-icon/paobu-active.png"
+			},
+			{
+				"pagePath": "pages/found/found/found",
+				"text": "发现",
+				"iconPath": "static/topBar-icon/faxian.png",
+				"selectedIconPath": "static/topBar-icon/faxian-active.png"
+			},
+			{
+				"pagePath": "pages/talk/talk/talk",
+				"text": "社区",
+				"iconPath": "static/topBar-icon/icon.png",
+				"selectedIconPath": "static/topBar-icon/icon-active.png"
+			},
+			{
+				"pagePath": "pages/me/me/me",
+				"text": "我",
+				"iconPath": "static/topBar-icon/wode.png",
+				"selectedIconPath": "static/topBar-icon/wode-active.png"
+			}
+		]
+	}
+}
