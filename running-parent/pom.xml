@@ -4,6 +4,7 @@
 	<groupId>com.running</groupId>
 	<artifactId>running-parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 	<!-- 集中定义依赖版本号 -->
 	<properties>
 		<junit.version>4.12</junit.version>
@@ -267,4 +268,11 @@
 
 		</plugins>
 	</build>
+	<modules>
+		<module>running-common</module>
+		<module>running-pojo</module>
+		<module>running-dao</module>
+		<module>running-user-interface</module>
+		<module>runnin-user-service</module>
+	</modules>
 </project>
