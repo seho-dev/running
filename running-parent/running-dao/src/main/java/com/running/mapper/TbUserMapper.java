@@ -1,11 +1,11 @@
 package com.running.mapper;
 
 
-import pojo.TbUser;
-import pojo.TbUserExample;
-
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
+
+import com.running.pojo.TbUser;
+import com.running.pojo.TbUserExample;
 
 public interface TbUserMapper {
     int countByExample(TbUserExample example);

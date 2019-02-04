@@ -274,5 +274,6 @@
 		<module>running-dao</module>
 		<module>running-user-interface</module>
 		<module>runnin-user-service</module>
+		<module>running-controller</module>
 	</modules>
 </project>

@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 /**
  * 返回前端结果集
+ * 
  * @author LAOSHEN
  *
  */
@@ -27,4 +28,11 @@ public class result implements Serializable {
 	public void setMessage(String message) {
 		this.message = message;
 	}
+
+	public result(int status, String message) {
+		super();
+		this.status = status;
+		this.message = message;
+	}
+
 }
