@@ -42,7 +42,7 @@
 			},
 			{
 				"pagePath": "pages/talk/talk/talk",
-				"text": "社区",
+				"text": "聊天",
 				"iconPath": "static/topBar-icon/icon.png",
 				"selectedIconPath": "static/topBar-icon/icon-active.png"
 			},

@@ -5,7 +5,8 @@ import 'assets/styles/reset.css'
 import 'assets/styles/border.css'
 import 'assets/styles/iconfonts/iconfont.css'
 import 'animate.css'
-Vue.config.productionTip = false
+// Vue.config.productionTip = false
+import 'mint-ui/lib/style.css';
 
 App.mpType = 'app'
 

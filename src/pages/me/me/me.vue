@@ -1,5 +1,5 @@
 <template>
-	<view ref="view">
+	<view>
 		<div class="head">
 			<span class="me" @click="loginOrRegister">我</span>
 			<ul>
@@ -16,11 +16,11 @@
 			<div class="center">
 				<div class="portrait">
 					<!-- 头像 -->
-					<div style="width:64px;height: 64px;border-radius: 50%;"></div>
+					<div :style="headImg"></div>
 				</div>
 				<div class="context">
-					<div class="title">未登陆</div>
-					<div class="slogan">就当左边的头像是我</div>
+					<div class="title">{{username}}</div>
+					<div class="slogan">{{slogan}}</div>
 				</div>
 				<div class="iconfont right">&#xe601;</div>
 			</div>
@@ -54,10 +54,6 @@
 			<span class="right iconfont">&#xe601;</span>
 		</div>
 		<div class="list border-bottom border-top">
-			<p class="title">聊天</p>
-			<span class="right iconfont">&#xe601;</span>
-		</div>
-		<div class="list border-bottom border-top">
 			<p class="title">我的收藏</p>
 			<span class="right iconfont">&#xe601;</span>
 		</div>
@@ -74,11 +70,44 @@
 
 <script>
 	export default {
+		computed:{
+			headImg(){
+				return `width:64px;height: 64px;border-radius: 50%;background: url('${this.head}') no-repeat;`
+			}
+		},
+		data(){
+			return{
+				username:'未登陆',
+				slogan:'点击箭头进行登陆'
+			}
+		},
+		onLoad(){
+			this.showUser()
+		},
 		methods: {
+			// 判断传入的参数是否有storge，如果有说明从登陆入口进来的，就优先显示本地存储数据
+			showUser(){
+				// 检查内存
+				try {
+					const value = uni.getStorageSync('Tb_user');
+					if (value) {
+						// 有存储，开始赋值
+						this.username = value.username
+						this.slogan = value.slogan || '去个人中心添加签名吧'
+						this.head = value.head || '../../../static/me-icon/head.jpg' //头像
+					}else{
+						// 没有存储
+						console.log(value)
+					}
+				} catch (e) {
+					// error
+					console.log("读取存储出现异常")
+				}
+			},
 			loginOrRegister() {
 				// 跳转页面到登陆页面
 				uni.navigateTo({
-					url: '/pages/login/login/login?close=1'
+					url: '/pages/login/login/login'
 				});
 			}
 		}
@@ -127,7 +156,6 @@
 				margin-left: 20px;
 
 				div {
-					background: url('../../../static/me-icon/head.jpg') no-repeat;
 					background-position: -5rem 0rem;
 					background-size: 250px 157px;
 				}

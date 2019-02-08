@@ -24,9 +24,12 @@
     "@dcloudio/uni-mp-toutiao": "*",
     "@dcloudio/uni-mp-weixin": "*",
     "animate.css": "^3.7.0",
+    "cube-ui": "^1.12.10",
     "flyio": "^0.6.2",
+    "mint-ui": "^2.2.13",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
+    "vant": "^1.6.1",
     "vue": "^2.5.22",
     "vuex": "^3.0.1"
   },
