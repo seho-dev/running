@@ -13,6 +13,9 @@
         <dependent-module archiveName="running-pojo-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/running-pojo/running-pojo">
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="running-common-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/running-common/running-common">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <property name="context-root" value="running-controller"/>
         <property name="java-output-path" value="/running-user-controller/target/classes"/>
     </wb-module>

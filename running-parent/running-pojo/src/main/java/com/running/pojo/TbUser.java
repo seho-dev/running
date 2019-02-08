@@ -2,84 +2,91 @@ package com.running.pojo;
 
 import java.io.Serializable;
 
-public class TbUser implements Serializable{
-    private Integer id;
+public class TbUser implements Serializable {
+	private Integer id;
 
-    private String username;
+	private String username;
 
-    private String password;
+	private String password;
 
-    private String sex;
+	private String sex;
 
-    private String head;
+	private String head;
 
-    private String address;
+	private String address;
 
-    private String wechat;
+	private String wechat;
 
-    private String slogan;
+	private String slogan;
 
-    public Integer getId() {
-        return id;
-    }
+	public Integer getId() {
+		return id;
+	}
 
-    public void setId(Integer id) {
-        this.id = id;
-    }
+	public void setId(Integer id) {
+		this.id = id;
+	}
 
-    public String getUsername() {
-        return username;
-    }
+	public String getUsername() {
+		return username;
+	}
 
-    public void setUsername(String username) {
-        this.username = username == null ? null : username.trim();
-    }
+	public void setUsername(String username) {
+		this.username = username == null ? null : username.trim();
+	}
 
-    public String getPassword() {
-        return password;
-    }
+	public String getPassword() {
+		return password;
+	}
 
-    public void setPassword(String password) {
-        this.password = password == null ? null : password.trim();
-    }
+	public void setPassword(String password) {
+		this.password = password == null ? null : password.trim();
+	}
 
-    public String getSex() {
-        return sex;
-    }
+	public String getSex() {
+		return sex;
+	}
 
-    public void setSex(String sex) {
-        this.sex = sex == null ? null : sex.trim();
-    }
+	public void setSex(String sex) {
+		this.sex = sex == null ? null : sex.trim();
+	}
 
-    public String getHead() {
-        return head;
-    }
+	public String getHead() {
+		return head;
+	}
 
-    public void setHead(String head) {
-        this.head = head == null ? null : head.trim();
-    }
+	public void setHead(String head) {
+		this.head = head == null ? null : head.trim();
+	}
 
-    public String getAddress() {
-        return address;
-    }
+	public String getAddress() {
+		return address;
+	}
 
-    public void setAddress(String address) {
-        this.address = address == null ? null : address.trim();
-    }
+	public void setAddress(String address) {
+		this.address = address == null ? null : address.trim();
+	}
 
-    public String getWechat() {
-        return wechat;
-    }
+	public String getWechat() {
+		return wechat;
+	}
 
-    public void setWechat(String wechat) {
-        this.wechat = wechat == null ? null : wechat.trim();
-    }
+	public void setWechat(String wechat) {
+		this.wechat = wechat == null ? null : wechat.trim();
+	}
 
-    public String getSlogan() {
-        return slogan;
-    }
+	public String getSlogan() {
+		return slogan;
+	}
 
-    public void setSlogan(String slogan) {
-        this.slogan = slogan == null ? null : slogan.trim();
-    }
+	public void setSlogan(String slogan) {
+		this.slogan = slogan == null ? null : slogan.trim();
+	}
+
+	@Override
+	public String toString() {
+		return "TbUser [id=" + id + ", username=" + username + ", password=" + password + ", sex=" + sex + ", head="
+				+ head + ", address=" + address + ", wechat=" + wechat + ", slogan=" + slogan + "]";
+	}
+
 }

@@ -2,12 +2,18 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="running-parent"/>
+			<item value="com.running"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="running-controller"/>
 			<item value="running-parent"/>
+			<item value="runnin-user-service"/>
+			<item value="running-user-interface"/>
+			<item value="running-dao"/>
+			<item value="running-pojo"/>
+			<item value="running-common"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -21,11 +27,42 @@
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
 	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
 		<item value="480" key="width"/>
 		<item value="807" key="x"/>
 		<item value="220" key="y"/>
 		<item value="450" key="height"/>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="1938" key="width"/>
+		<item value="-9" key="x"/>
+		<item value="-9" key="y"/>
+		<item value="1048" key="height"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\running-working\running-parent\running-common"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
 		<list key="projectNameTemplate">
@@ -39,6 +76,12 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="running-controller"/>
+			<item value="runnin-user-service"/>
+			<item value="running-user-interface"/>
+			<item value="running-dao"/>
+			<item value="running-pojo"/>
+			<item value="running-common"/>
 			<item value="running-parent"/>
 			<item value="Running-parent"/>
 		</list>
@@ -53,13 +96,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.running.parent"/>
+			<item value="org.running.controller"/>
 		</list>
 		<list key="groupId">
-			<item value="running-parent"/>
+			<item value="com.running"/>
 		</list>
 		<list key="artifactId">
-			<item value="running-parent"/>
+			<item value="running-controller"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
