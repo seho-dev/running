@@ -18,6 +18,10 @@
 			"style": {}
 		},
 		{
+			"path": "pages/talk/talk/talkwindow",
+			"style": {}
+		},
+		{
 			"path": "pages/login/login/login"
 		}
 	],

@@ -12,8 +12,8 @@
     </div>
     <!-- 列表，可滚动 -->
 	<scroll-view  scroll-y="true" class="scroll-y">
-    <div style="margin-top:50px;">
-      <scoketCard></scoketCard>
+    <div style="margin-top:50px;" @click="goTalkWindow('183242347****')">
+      <scoketCard title="183242347****" message="一起出去跑一会吧！我在解放路，等你！" data=""></scoketCard>
     </div>
 	</scroll-view>
   </div>
@@ -23,6 +23,14 @@ import scoketCard from "@/components/scoketCard";
 export default {
   components: {
     scoketCard
+  },
+  methods:{
+    goTalkWindow(title){
+      // 跳转到聊天页面
+      uni.navigateTo({
+        url:'/pages/talk/talk/talkwindow?title='+title
+      })
+    }
   },
   data() {
     return {};
