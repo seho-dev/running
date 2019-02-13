@@ -12,8 +12,11 @@
     </div>
     <!-- 列表，可滚动 -->
 	<scroll-view  scroll-y="true" class="scroll-y">
-    <div style="margin-top:50px;" @click="goTalkWindow('183242347****')">
-      <scoketCard title="183242347****" message="一起出去跑一会吧！我在解放路，等你！" data=""></scoketCard>
+    <div style="margin-top:50px;" @click="goTalkWindow('18324234745')">
+      <scoketCard title="18324234745" message="一起出去跑一会吧！我在解放路，等你！" data="17:50"></scoketCard>
+    </div>
+    <div @click="goTalkWindow('18291563764')">
+      <scoketCard title="18291563764" message="一起出去跑一会吧！我在解放路，等你！" data="17:50"></scoketCard>
     </div>
 	</scroll-view>
   </div>
