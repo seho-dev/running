@@ -39,7 +39,7 @@ public class UserController {
 	@RequestMapping("/insertUser")
 	public result registerUser(@RequestBody String user) {
 
-		response.setHeader("Access-Control-Allow-Origin", "*"); // 解决跨域
+//		response.setHeader("Access-Control-Allow-Origin", "*"); // 解决跨域
 
 		/**
 		 * uniapp的post提交自动转换为字符串，需要转换成对象
@@ -59,7 +59,7 @@ public class UserController {
 	// 发送验证码
 	@RequestMapping("/sendMessage")
 	public result sendMessage(final String phone) {
-		response.setHeader("Access-Control-Allow-Origin", "*"); // 解决跨域
+//		response.setHeader("Access-Control-Allow-Origin", "*"); // 解决跨域
 		try {
 			// 发送手机号到消息队列
 			userservice.createSmsCode(phone);
@@ -94,8 +94,7 @@ public class UserController {
 
 	@RequestMapping("/searchUser")
 	public TbUser foundByUserName(String username) {
-		System.out.println(username);
-		response.setHeader("Access-Control-Allow-Origin", "*"); // 解决跨域
+//		response.setHeader("Access-Control-Allow-Origin", "*"); // 解决跨域
 		return userservice.foundUserByUserName(username);
 	}
 }

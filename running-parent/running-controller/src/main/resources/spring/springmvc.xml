@@ -25,6 +25,12 @@
 		</mvc:message-converters>
 	</mvc:annotation-driven>
 
+	<mvc:cors>
+		<mvc:mapping path="/**" allowed-origins="*"
+			allow-credentials="true" max-age="1800" allowed-methods="GET,POST,PUT,DELETE,PATCH,OPTIONS" />
+	</mvc:cors>
+
+
 	<!-- 引用dubbo 服务 -->
 	<dubbo:application name="running-user-controller" />
 	<dubbo:registry address="zookeeper://192.168.25.136:2181" />
