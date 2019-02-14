@@ -22,6 +22,10 @@
 			"style": {}
 		},
 		{
+			"path": "pages/talk/talk/addFriends",
+			"style": {}
+		},
+		{
 			"path": "pages/login/login/login"
 		}
 	],

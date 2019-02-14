@@ -6,7 +6,7 @@
       </div>
       <div class="title">聊天列表</div>
       <ul>
-        <li class="iconfont">&#xeaf3;</li>
+        <li class="iconfont" @click="addFriends">&#xeaf3;</li>
         <li class="iconfont">&#xeaf4;</li>
       </ul>
     </div>
@@ -28,6 +28,12 @@ export default {
     scoketCard
   },
   methods:{
+    // 跳转到添加好友页面
+    addFriends(){
+       uni.navigateTo({
+        url:'/pages/talk/talk/addFriends'
+      })
+    },
     goTalkWindow(title){
       // 跳转到聊天页面
       uni.navigateTo({
