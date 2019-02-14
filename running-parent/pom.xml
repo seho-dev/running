@@ -277,5 +277,8 @@
 		<module>running-controller</module>
 		<module>running-chat-service</module>
 		<module>running-talk-service</module>
+		<module>running-friend-interface</module>
+		<module>running-friend-service</module>
+		<module>running-friend-controller</module>
 	</modules>
 </project>

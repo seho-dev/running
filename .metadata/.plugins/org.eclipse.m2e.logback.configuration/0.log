@@ -11710,3 +11710,883 @@ org.eclipse.core.runtime.CoreException: Launch configuration Application (2) ref
 2019-02-13 22:10:30,278 [Worker-928] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2019-02-13 22:10:30,285 [Worker-928] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-02-13 22:10:30,286 [Worker-928] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LAOSHEN\Desktop\Ç°¶ËÏîÄ¿\websocket\websocket\src\test\resources
+2019-02-14 12:35:53,619 [Worker-952] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 12:35:53,619 [Worker-952] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 12:35:53,621 [Worker-952] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 12:35:53,621 [Worker-952] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 12:35:54,058 [Worker-952] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 12:35:54,058 [Worker-952] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 12:35:54,059 [Worker-952] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 12:35:54,059 [Worker-952] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 13:11:30,268 [Worker-963] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 13:11:30,270 [Worker-963] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-14 13:11:30,283 [Worker-963] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 13:11:30,284 [Worker-963] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 13:12:18,817 [Worker-947] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 13:12:18,818 [Worker-947] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 13:12:18,819 [Worker-947] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 13:12:18,820 [Worker-947] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 13:12:28,176 [Worker-947] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 13:12:28,176 [Worker-947] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 13:12:28,177 [Worker-947] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 13:12:28,178 [Worker-947] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 13:12:40,278 [Worker-947] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 13:12:40,279 [Worker-947] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 13:12:40,280 [Worker-947] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 13:12:40,280 [Worker-947] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 13:13:12,927 [Worker-963] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 13:13:12,928 [Worker-963] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2019-02-14 13:13:12,930 [Worker-963] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 13:13:12,930 [Worker-963] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 13:13:20,907 [Worker-932] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\running-working\running-parent\running-dao
+2019-02-14 13:13:20,909 [Worker-932] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\apache-maven-3.6.0\conf\settings.xml install
+2019-02-14 13:13:23,881 [Worker-932] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 13:13:23,881 [Worker-932] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 13:13:23,884 [Worker-932] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 13:13:23,885 [Worker-932] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 13:13:27,906 [Worker-964] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\running-working\running-parent\running-pojo
+2019-02-14 13:13:27,906 [Worker-964] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\apache-maven-3.6.0\conf\settings.xml install
+2019-02-14 13:13:31,208 [Worker-961] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 13:13:31,209 [Worker-961] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 13:13:31,210 [Worker-961] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 13:13:31,210 [Worker-961] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:15,994 [Worker-1001] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-interface:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-interface\pom.xml.
+2019-02-14 21:22:16,746 [Worker-1001] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /running-friend-interface/src/main/java
+2019-02-14 21:22:16,746 [Worker-1001] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /running-friend-interface/src/main/resources
+2019-02-14 21:22:16,753 [Worker-1001] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /running-friend-interface/src/test/java
+2019-02-14 21:22:16,753 [Worker-1001] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /running-friend-interface/src/test/resources
+2019-02-14 21:22:18,050 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:18,052 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:18,055 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:18,056 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:18,285 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.running:running-parent:0.0.1-SNAPSHOT @ D:\running-working\running-parent\pom.xml.
+2019-02-14 21:22:18,825 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-user-interface:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-user-interface\pom.xml.
+2019-02-14 21:22:18,886 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:runnin-user-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\runnin-user-service\pom.xml.
+2019-02-14 21:22:19,144 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-pojo:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-pojo\pom.xml.
+2019-02-14 21:22:19,161 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-dao:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-dao\pom.xml.
+2019-02-14 21:22:19,179 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-controller:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-controller\pom.xml.
+2019-02-14 21:22:19,214 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-common:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-common\pom.xml.
+2019-02-14 21:22:19,235 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-interface:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-interface\pom.xml.
+2019-02-14 21:22:20,792 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:20,796 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:20,798 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:20,798 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:20,820 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:20,821 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:20,821 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:20,822 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:20,828 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:20,828 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:20,829 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:20,829 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:20,845 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:20,845 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:20,846 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:20,846 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:20,864 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:20,865 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:20,866 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:20,866 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:20,960 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:20,961 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:20,961 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:20,961 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:21,287 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:21,287 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:21,288 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:22:21,288 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:22:59,597 [Worker-1001] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-service\pom.xml.
+2019-02-14 21:22:59,644 [Worker-1001] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /running-friend-service/src/main/java
+2019-02-14 21:22:59,644 [Worker-1001] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /running-friend-service/src/main/resources
+2019-02-14 21:22:59,648 [Worker-1001] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /running-friend-service/src/test/java
+2019-02-14 21:22:59,648 [Worker-1001] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /running-friend-service/src/test/resources
+2019-02-14 21:22:59,684 [Worker-1001] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Cannot detect Web Project version. Please specify version of Web Project through Maven project property <webVersion>.
+
+E.g.: <properties> <webVersion>3.0</webVersion> </properties>
+org.eclipse.m2e.wtp.MarkedException: Cannot detect Web Project version. Please specify version of Web Project through Maven project property <webVersion>.
+
+E.g.: <properties> <webVersion>3.0</webVersion> </properties>
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:103) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:72) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:502) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:495) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:282) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$4.run(ProjectConfigurationManager.java:522) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.AbstractRunnable.call(AbstractRunnable.java:26) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.AbstractRunnable.call(AbstractRunnable.java:1) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.enableMavenNature(ProjectConfigurationManager.java:519) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.createSimpleProject(ProjectConfigurationManager.java:692) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenModuleWizard$5.doCreateMavenProjects(MavenModuleWizard.java:236) [org.eclipse.m2e.core.ui_1.7.0.me201612231634.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:50) [org.eclipse.m2e.core.ui_1.7.0.me201612231634.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:62) [org.eclipse.m2e.core.ui_1.7.0.me201612231634.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:54) [org.eclipse.m2e.core.ui_1.7.0.me201612231634.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-02-14 21:23:00,429 [Worker-1007] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:00,429 [Worker-1007] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:00,432 [Worker-1007] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:00,432 [Worker-1007] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:00,502 [Worker-1007] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.running:running-parent:0.0.1-SNAPSHOT @ D:\running-working\running-parent\pom.xml.
+2019-02-14 21:23:00,644 [Worker-1007] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-user-interface:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-user-interface\pom.xml.
+2019-02-14 21:23:00,668 [Worker-1007] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:runnin-user-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\runnin-user-service\pom.xml.
+2019-02-14 21:23:00,767 [Worker-1007] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-pojo:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-pojo\pom.xml.
+2019-02-14 21:23:00,781 [Worker-1007] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-dao:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-dao\pom.xml.
+2019-02-14 21:23:00,794 [Worker-1007] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-controller:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-controller\pom.xml.
+2019-02-14 21:23:00,811 [Worker-1007] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-interface:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-interface\pom.xml.
+2019-02-14 21:23:00,822 [Worker-1007] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-common:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-common\pom.xml.
+2019-02-14 21:23:00,835 [Worker-1007] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-service\pom.xml.
+2019-02-14 21:23:01,656 [Worker-1007] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:01,658 [Worker-1007] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:01,658 [Worker-1007] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:01,659 [Worker-1007] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:01,675 [Worker-1007] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:01,675 [Worker-1007] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:01,675 [Worker-1007] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:01,676 [Worker-1007] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:01,691 [Worker-1007] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:01,691 [Worker-1007] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:01,691 [Worker-1007] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:01,692 [Worker-1007] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:01,816 [Worker-1007] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:01,817 [Worker-1007] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:01,817 [Worker-1007] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:01,818 [Worker-1007] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:01,903 [Worker-1007] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:01,903 [Worker-1007] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:01,904 [Worker-1007] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:01,905 [Worker-1007] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:02,985 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:02,985 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:02,986 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:02,986 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:02,994 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:02,994 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:02,995 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:02,995 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:03,003 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:03,003 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:03,005 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:03,005 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:28,407 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-controller:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-controller\pom.xml.
+2019-02-14 21:23:28,445 [Worker-1003] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /running-friend-controller/src/main/java
+2019-02-14 21:23:28,445 [Worker-1003] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /running-friend-controller/src/main/resources
+2019-02-14 21:23:28,447 [Worker-1003] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /running-friend-controller/src/test/java
+2019-02-14 21:23:28,447 [Worker-1003] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /running-friend-controller/src/test/resources
+2019-02-14 21:23:28,470 [Worker-1003] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Cannot detect Web Project version. Please specify version of Web Project through Maven project property <webVersion>.
+
+E.g.: <properties> <webVersion>3.0</webVersion> </properties>
+org.eclipse.m2e.wtp.MarkedException: Cannot detect Web Project version. Please specify version of Web Project through Maven project property <webVersion>.
+
+E.g.: <properties> <webVersion>3.0</webVersion> </properties>
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:103) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:72) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:502) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:495) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:282) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$4.run(ProjectConfigurationManager.java:522) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.AbstractRunnable.call(AbstractRunnable.java:26) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.AbstractRunnable.call(AbstractRunnable.java:1) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.enableMavenNature(ProjectConfigurationManager.java:519) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.createSimpleProject(ProjectConfigurationManager.java:692) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenModuleWizard$5.doCreateMavenProjects(MavenModuleWizard.java:236) [org.eclipse.m2e.core.ui_1.7.0.me201612231634.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:50) [org.eclipse.m2e.core.ui_1.7.0.me201612231634.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:62) [org.eclipse.m2e.core.ui_1.7.0.me201612231634.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:54) [org.eclipse.m2e.core.ui_1.7.0.me201612231634.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-02-14 21:23:29,125 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:29,125 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:29,126 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:29,126 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:29,208 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.running:running-parent:0.0.1-SNAPSHOT @ D:\running-working\running-parent\pom.xml.
+2019-02-14 21:23:29,341 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-user-interface:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-user-interface\pom.xml.
+2019-02-14 21:23:29,362 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:runnin-user-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\runnin-user-service\pom.xml.
+2019-02-14 21:23:29,474 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-pojo:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-pojo\pom.xml.
+2019-02-14 21:23:29,484 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-dao:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-dao\pom.xml.
+2019-02-14 21:23:29,494 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-controller:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-controller\pom.xml.
+2019-02-14 21:23:29,512 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-interface:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-interface\pom.xml.
+2019-02-14 21:23:29,524 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-service\pom.xml.
+2019-02-14 21:23:29,533 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-common:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-common\pom.xml.
+2019-02-14 21:23:29,546 [Worker-1003] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-controller:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-controller\pom.xml.
+2019-02-14 21:23:30,301 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:30,302 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:30,303 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:30,303 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:30,318 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:30,318 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:30,318 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:30,319 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:30,332 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:30,332 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:30,333 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:30,333 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:30,417 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:30,417 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:30,417 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:30,417 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:30,495 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:30,495 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:30,496 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:30,496 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:31,581 [Worker-1001] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:31,582 [Worker-1001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:31,582 [Worker-1001] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:31,582 [Worker-1001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:31,592 [Worker-1001] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:31,593 [Worker-1001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:31,594 [Worker-1001] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:31,594 [Worker-1001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:31,608 [Worker-1001] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:31,608 [Worker-1001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:31,609 [Worker-1001] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:31,610 [Worker-1001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:31,622 [Worker-1001] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:31,623 [Worker-1001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:23:31,623 [Worker-1001] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:23:31,623 [Worker-1001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:24:16,211 [Worker-1010] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-interface:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-interface\pom.xml.
+2019-02-14 21:24:16,245 [Worker-1010] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:24:16,245 [Worker-1010] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:24:16,245 [Worker-1010] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:24:16,245 [Worker-1010] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:24:17,435 [Worker-1010] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:24:17,440 [Worker-1010] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:24:17,440 [Worker-1010] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:24:17,440 [Worker-1010] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:24:34,107 [Worker-1008] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-service\pom.xml.
+2019-02-14 21:24:34,157 [Worker-1008] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:24:34,158 [Worker-1008] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:24:34,158 [Worker-1008] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:24:34,158 [Worker-1008] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:24:34,158 [Worker-1008] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-service
+2019-02-14 21:24:34,158 [Worker-1008] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-service
+2019-02-14 21:24:34,163 [Worker-1008] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:24:42,259 [Worker-1001] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-controller:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-controller\pom.xml.
+2019-02-14 21:24:42,302 [Worker-1001] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:24:42,303 [Worker-1001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:24:42,303 [Worker-1001] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:24:42,304 [Worker-1001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:24:42,304 [Worker-1001] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-controller
+2019-02-14 21:24:42,304 [Worker-1001] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-controller
+2019-02-14 21:24:42,305 [Worker-1001] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:26:13,539 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:26:13,539 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:26:13,540 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:26:13,541 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:26:22,043 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:26:22,044 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:26:22,044 [Worker-1003] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:26:22,045 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:26:31,369 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:26:31,369 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:26:31,371 [Worker-1002] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:26:31,371 [Worker-1002] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:26:36,515 [Worker-1007] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:26:36,515 [Worker-1007] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:26:36,515 [Worker-1007] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:26:36,516 [Worker-1007] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:26:38,317 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:26:38,318 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:26:38,318 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:26:38,318 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:26:44,004 [Worker-1011] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:26:44,004 [Worker-1011] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:26:44,005 [Worker-1011] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:26:44,005 [Worker-1011] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:27:05,497 [Worker-1011] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:27:05,498 [Worker-1011] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 21:27:05,499 [Worker-1011] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 21:27:05,499 [Worker-1011] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:25:16,430 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:25:16,430 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:25:16,431 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:25:16,431 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:25:21,914 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:25:21,915 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:25:21,916 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:25:21,916 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:25:27,415 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:25:27,416 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:25:27,416 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:25:27,416 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:25:30,461 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:25:30,462 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:25:30,462 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:25:30,463 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:25:55,348 [Worker-1013] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:25:55,349 [Worker-1013] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:25:55,350 [Worker-1013] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:25:55,350 [Worker-1013] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:26:02,449 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:26:02,450 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:26:02,450 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:26:02,451 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:26:19,183 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:26:19,184 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-02-14 22:26:19,206 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:26:19,206 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:26:35,903 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:26:35,903 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:26:35,904 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:26:35,905 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:26:51,578 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:26:51,579 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-14 22:26:51,580 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:26:51,580 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:27:18,746 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:27:18,747 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:27:18,748 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:27:18,749 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:27:22,070 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:27:22,071 [Worker-1017] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-14 22:27:22,072 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:27:22,073 [Worker-1017] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:27:51,012 [Worker-1018] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:27:51,014 [Worker-1018] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:27:51,014 [Worker-1018] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:27:51,014 [Worker-1018] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:28:00,670 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:28:00,671 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:28:00,672 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:28:00,673 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:28:03,789 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:28:03,790 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:28:03,791 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:28:03,792 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:28:53,810 [Worker-1015] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-service\pom.xml.
+2019-02-14 22:28:54,133 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:28:54,134 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:28:54,135 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:28:54,135 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:28:54,135 [Worker-1015] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-service
+2019-02-14 22:28:54,135 [Worker-1015] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-service
+2019-02-14 22:28:54,137 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:28:55,452 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:28:55,452 [Worker-1020] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:28:55,454 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:28:55,454 [Worker-1020] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:28:59,184 [Worker-1020] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-service\pom.xml.
+2019-02-14 22:28:59,324 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:28:59,324 [Worker-1020] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:28:59,324 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:28:59,324 [Worker-1020] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:28:59,325 [Worker-1020] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-service
+2019-02-14 22:28:59,325 [Worker-1020] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-service
+2019-02-14 22:28:59,326 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:29:12,806 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:29:12,806 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:29:12,807 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:29:12,807 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:29:31,493 [Worker-1015] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-02-14 22:29:31,577 [Worker-1015] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-service\pom.xml.
+2019-02-14 22:29:31,744 [Worker-1015] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /running-friend-service/src/main/java
+2019-02-14 22:29:31,744 [Worker-1015] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /running-friend-service/src/main/resources
+2019-02-14 22:29:31,744 [Worker-1015] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /running-friend-service/src/test/java
+2019-02-14 22:29:31,744 [Worker-1015] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /running-friend-service/src/test/resources
+2019-02-14 22:29:32,800 [Worker-1015] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for running-friend-service
+2019-02-14 22:29:32,809 [Worker-1015] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-02-14 22:29:33,511 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:29:33,512 [Worker-1017] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:29:33,513 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:29:33,513 [Worker-1017] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:29:33,801 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:29:33,801 [Worker-1017] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:29:33,803 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:29:33,804 [Worker-1017] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:29:33,804 [Worker-1017] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-service
+2019-02-14 22:29:33,804 [Worker-1017] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-service
+2019-02-14 22:29:33,813 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:29:51,862 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:29:51,863 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:29:51,864 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:29:51,865 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:29:58,264 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:29:58,265 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:29:58,266 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:29:58,266 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:30:42,389 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:30:42,389 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:30:42,389 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:30:42,390 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:30:42,530 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:30:42,531 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:30:42,531 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:30:42,532 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:30:45,064 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:30:45,065 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:30:45,066 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:30:45,066 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:30:55,552 [Worker-1018] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:30:55,554 [Worker-1018] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:30:55,554 [Worker-1018] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:30:55,555 [Worker-1018] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:31:05,440 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:05,441 [Worker-1020] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:31:05,478 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:05,479 [Worker-1020] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:31:10,867 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:10,867 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:31:10,868 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:10,869 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:31:18,360 [Worker-1013] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:18,360 [Worker-1013] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:31:18,361 [Worker-1013] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:18,362 [Worker-1013] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:31:18,390 [Worker-1013] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:18,390 [Worker-1013] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:31:18,391 [Worker-1013] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:18,391 [Worker-1013] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:31:28,833 [Worker-1022] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:28,833 [Worker-1022] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:31:28,834 [Worker-1022] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:28,834 [Worker-1022] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:31:31,026 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:31,026 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:31:31,027 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:31,027 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:31:35,523 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:35,525 [Worker-1020] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:31:35,526 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:35,526 [Worker-1020] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:31:37,595 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:37,596 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:31:37,597 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:31:37,597 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:34:06,791 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:34:06,791 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:34:06,792 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:34:06,792 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:34:09,001 [Worker-1021] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:34:09,002 [Worker-1021] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:34:09,003 [Worker-1021] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:34:09,003 [Worker-1021] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:34:39,128 [Worker-1013] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-controller:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-controller\pom.xml.
+2019-02-14 22:34:39,293 [Worker-1013] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:34:39,293 [Worker-1013] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:34:39,293 [Worker-1013] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:34:39,294 [Worker-1013] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:34:39,294 [Worker-1013] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-controller
+2019-02-14 22:34:39,294 [Worker-1013] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-controller
+2019-02-14 22:34:39,296 [Worker-1013] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:34:40,547 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:34:40,548 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:34:40,548 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:34:40,548 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:34:43,369 [Worker-1017] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-controller:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-controller\pom.xml.
+2019-02-14 22:34:43,500 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:34:43,501 [Worker-1017] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:34:43,501 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:34:43,501 [Worker-1017] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:34:43,502 [Worker-1017] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-controller
+2019-02-14 22:34:43,502 [Worker-1017] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-controller
+2019-02-14 22:34:43,503 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:34:44,770 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:34:44,771 [Worker-1020] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:34:44,771 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:34:44,771 [Worker-1020] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:00,739 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:00,740 [Worker-1017] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:00,740 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:00,740 [Worker-1017] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:02,732 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:02,733 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:02,734 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:02,734 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:09,692 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:09,693 [Worker-1017] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:09,693 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:09,693 [Worker-1017] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:24,868 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:24,868 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:24,869 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:24,870 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:27,297 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:27,297 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:27,298 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:27,299 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:32,287 [Worker-1018] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:32,288 [Worker-1018] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:32,289 [Worker-1018] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:32,289 [Worker-1018] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:34,205 [Worker-1013] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:34,205 [Worker-1013] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:34,205 [Worker-1013] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:34,205 [Worker-1013] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:38,491 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:38,492 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:38,493 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:38,493 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:45,477 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:45,477 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:45,478 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:45,478 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:46,935 [Worker-1024] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:46,935 [Worker-1024] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:35:46,936 [Worker-1024] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:35:46,936 [Worker-1024] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:00,115 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:00,115 [Worker-1020] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:00,116 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:00,116 [Worker-1020] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:08,016 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:08,017 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:08,018 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:08,018 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:18,634 [Worker-1021] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:18,634 [Worker-1021] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:18,634 [Worker-1021] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:18,634 [Worker-1021] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:21,276 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:21,276 [Worker-1017] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:21,277 [Worker-1017] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:21,277 [Worker-1017] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:30,269 [Worker-1025] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:30,270 [Worker-1025] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:30,270 [Worker-1025] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:30,271 [Worker-1025] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:35,251 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:35,251 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:35,252 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:35,252 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:39,967 [Worker-1025] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:39,968 [Worker-1025] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:39,968 [Worker-1025] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:39,968 [Worker-1025] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:42,199 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:42,200 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:36:42,201 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:36:42,201 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:37:05,772 [Worker-1026] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:37:05,772 [Worker-1026] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:37:05,772 [Worker-1026] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:37:05,773 [Worker-1026] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:37:10,717 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:37:10,717 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:37:10,718 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:37:10,718 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:37:14,711 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:37:14,712 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:37:14,712 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:37:14,713 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:37:16,587 [Worker-1013] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:37:16,588 [Worker-1013] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:37:16,588 [Worker-1013] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:37:16,589 [Worker-1013] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:37:38,643 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:37:38,644 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:37:38,649 [Worker-1005] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:37:38,650 [Worker-1005] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:38:03,355 [Worker-1021] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:38:03,356 [Worker-1021] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-14 22:38:03,358 [Worker-1021] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:38:03,358 [Worker-1021] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:38:08,731 [Worker-1021] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:38:08,731 [Worker-1021] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-14 22:38:08,732 [Worker-1021] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:38:08,732 [Worker-1021] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:38:24,007 [Worker-1021] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:38:24,008 [Worker-1021] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:38:24,008 [Worker-1021] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:38:24,009 [Worker-1021] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:39:20,928 [Worker-1013] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-02-14 22:39:20,968 [Worker-1013] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-controller:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-controller\pom.xml.
+2019-02-14 22:39:21,139 [Worker-1013] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /running-friend-controller/src/main/java
+2019-02-14 22:39:21,140 [Worker-1013] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /running-friend-controller/src/main/resources
+2019-02-14 22:39:21,140 [Worker-1013] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /running-friend-controller/src/test/java
+2019-02-14 22:39:21,140 [Worker-1013] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /running-friend-controller/src/test/resources
+2019-02-14 22:39:21,804 [Worker-1013] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for running-friend-controller
+2019-02-14 22:39:21,810 [Worker-1013] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-02-14 22:39:22,680 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:39:22,681 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:39:22,684 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:39:22,684 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:39:22,684 [Worker-1016] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-controller
+2019-02-14 22:39:22,684 [Worker-1016] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-controller
+2019-02-14 22:39:22,694 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:39:29,559 [Worker-1013] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\running-working\running-parent
+2019-02-14 22:39:29,561 [Worker-1013] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\apache-maven-3.6.0\conf\settings.xml install
+2019-02-14 22:39:56,171 [Worker-1024] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\running-working\running-parent\running-dao
+2019-02-14 22:39:56,172 [Worker-1024] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\apache-maven-3.6.0\conf\settings.xml install
+2019-02-14 22:39:58,674 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:39:58,674 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:39:58,675 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:39:58,675 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:40:03,927 [Worker-1012] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\running-working\running-parent\running-pojo
+2019-02-14 22:40:03,927 [Worker-1012] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\apache-maven-3.6.0\conf\settings.xml install
+2019-02-14 22:40:06,286 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:40:06,287 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:40:06,287 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:40:06,288 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:40:10,561 [Worker-1020] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\running-working\running-parent\running-friend-service
+2019-02-14 22:40:10,562 [Worker-1020] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\apache-maven-3.6.0\conf\settings.xml install
+2019-02-14 22:41:14,360 [Worker-1016] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-service\pom.xml.
+2019-02-14 22:41:14,850 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:41:14,850 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:41:14,850 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:41:14,850 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:41:14,850 [Worker-1016] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-service
+2019-02-14 22:41:14,850 [Worker-1016] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-service
+2019-02-14 22:41:14,853 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:41:19,829 [Worker-1012] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-service\pom.xml.
+2019-02-14 22:41:20,294 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:41:20,294 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:41:20,294 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:41:20,295 [Worker-1012] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:41:20,295 [Worker-1012] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-service
+2019-02-14 22:41:20,295 [Worker-1012] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-service
+2019-02-14 22:41:20,297 [Worker-1012] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:41:34,894 [Worker-1012] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/running-friend-service/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:820) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1026) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4724) ~[na:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3522) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2315) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2278) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2193) ~[na:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3932) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4721) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1024) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:807) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$7.run(MavenPomEditor.java:1136) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-02-14 22:41:35,036 [Worker-1005] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:558) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:514) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:300) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:166) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:92) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:89) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:212) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'build' (position: START_TAG seen ...</dependencies>\r\n\t<build>... @101:9) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:86) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'build' (position: START_TAG seen ...</dependencies>\r\n\t<build>... @101:9) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:140) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2275) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3845) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	... 26 common frames omitted
+2019-02-14 22:41:36,304 [Worker-1019] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:558) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:514) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:300) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:166) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:92) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:89) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:212) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'build' (position: START_TAG seen ...</dependencies>\r\n\t<build>... @101:9) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:86) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'build' (position: START_TAG seen ...</dependencies>\r\n\t<build>... @101:9) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:140) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2275) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3845) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	... 26 common frames omitted
+2019-02-14 22:41:37,954 [Worker-1024] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM D:\running-working\running-parent\running-friend-service\pom.xml: Duplicated tag: 'build' (position: START_TAG seen ...</dependencies>\r\n\t<build>... @101:9)  @ line 101, column 9
+ for project  at D:\running-working\running-parent\running-friend-service\pom.xml
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM D:\running-working\running-parent\running-friend-service\pom.xml: Duplicated tag: 'build' (position: START_TAG seen ...</dependencies>\r\n\t<build>... @101:9)  @ line 101, column 9
+ for project  at D:\running-working\running-parent\running-friend-service\pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168) ~[maven-core-3.3.9.jar:3.3.9]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119) ~[maven-core-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:832) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:983) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:827) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:194) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259) [org.eclipse.m2e.core.ui_1.7.0.me201612231634.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:807) [org.eclipse.m2e.editor_1.7.0.me201611191457.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$7.run(MavenPomEditor.java:1136) [org.eclipse.m2e.editor_1.7.0.me201611191457.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM D:\running-working\running-parent\running-friend-service\pom.xml: Duplicated tag: 'build' (position: START_TAG seen ...</dependencies>\r\n\t<build>... @101:9)  @ line 101, column 9
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:579) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:273) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161) ~[maven-core-3.3.9.jar:3.3.9]
+	... 15 common frames omitted
+2019-02-14 22:41:38,403 [Worker-1025] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:558) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:514) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:300) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:166) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:92) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:89) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:212) [org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'build' (position: START_TAG seen ...</dependencies>\r\n\t<build>... @101:9) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:86) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.7.0.me201710050312.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'build' (position: START_TAG seen ...</dependencies>\r\n\t<build>... @101:9) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:140) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2275) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3845) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	... 26 common frames omitted
+2019-02-14 22:41:42,700 [Worker-1015] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-service\pom.xml.
+2019-02-14 22:41:43,182 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:41:43,183 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:41:43,183 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:41:43,184 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:41:43,184 [Worker-1015] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-service
+2019-02-14 22:41:43,184 [Worker-1015] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-service
+2019-02-14 22:41:43,185 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:41:44,446 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:41:44,446 [Worker-1020] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:41:44,448 [Worker-1020] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:41:44,449 [Worker-1020] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:41:57,724 [Worker-1013] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\running-working\running-parent\running-friend-service
+2019-02-14 22:41:57,724 [Worker-1013] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\apache-maven-3.6.0\conf\settings.xml install
+2019-02-14 22:44:59,047 [Worker-1019] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-service\pom.xml.
+2019-02-14 22:44:59,474 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:44:59,474 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:44:59,475 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:44:59,475 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:44:59,475 [Worker-1019] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-service
+2019-02-14 22:44:59,475 [Worker-1019] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-service
+2019-02-14 22:44:59,477 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:45:00,699 [Worker-1018] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:45:00,700 [Worker-1018] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:45:00,703 [Worker-1018] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:45:00,704 [Worker-1018] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:45:17,267 [Worker-1016] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-service:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-service\pom.xml.
+2019-02-14 22:45:17,758 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:45:17,758 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:45:17,759 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:45:17,759 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:45:17,759 [Worker-1016] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-service
+2019-02-14 22:45:17,759 [Worker-1016] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-service
+2019-02-14 22:45:17,762 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:45:19,050 [Worker-1028] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:45:19,050 [Worker-1028] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:45:19,052 [Worker-1028] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:45:19,053 [Worker-1028] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:45:28,928 [Worker-1028] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\running-working\running-parent\running-friend-service
+2019-02-14 22:45:28,928 [Worker-1028] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\apache-maven-3.6.0\conf\settings.xml install
+2019-02-14 22:46:05,609 [Worker-1016] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\running-working\running-parent\running-friend-interface
+2019-02-14 22:46:05,610 [Worker-1016] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\apache-maven-3.6.0\conf\settings.xml install
+2019-02-14 22:46:08,725 [Worker-1021] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:46:08,725 [Worker-1021] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:46:08,726 [Worker-1021] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:46:08,726 [Worker-1021] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:46:12,787 [Worker-1021] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\running-working\running-parent\running-friend-service
+2019-02-14 22:46:12,787 [Worker-1021] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\apache-maven-3.6.0\conf\settings.xml install
+2019-02-14 22:46:18,570 [Worker-1029] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:46:18,571 [Worker-1029] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:46:18,571 [Worker-1029] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:46:18,572 [Worker-1029] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:46:46,589 [Worker-1019] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-controller:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-controller\pom.xml.
+2019-02-14 22:46:47,019 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:46:47,019 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:46:47,020 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:46:47,020 [Worker-1019] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:46:47,020 [Worker-1019] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-controller
+2019-02-14 22:46:47,020 [Worker-1019] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-controller
+2019-02-14 22:46:47,021 [Worker-1019] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:46:52,943 [Worker-1015] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.running:running-friend-controller:0.0.1-SNAPSHOT @ D:\running-working\running-parent\running-friend-controller\pom.xml.
+2019-02-14 22:46:53,455 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:46:53,456 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:46:53,457 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:46:53,457 [Worker-1015] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 22:46:53,457 [Worker-1015] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of running-friend-controller
+2019-02-14 22:46:53,457 [Worker-1015] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for running-friend-controller
+2019-02-14 22:46:53,459 [Worker-1015] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:47:02,440 [Worker-1016] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\running-working\running-parent\running-friend-controller
+2019-02-14 22:47:02,441 [Worker-1016] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\apache-maven-3.6.0\conf\settings.xml install
+2019-02-14 22:47:07,945 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:47:07,946 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-02-14 22:47:07,955 [Worker-1016] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-14 22:47:07,955 [Worker-1016] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
