@@ -27,6 +27,12 @@
 		},
 		{
 			"path": "pages/login/login/login"
+		},
+		{
+			"path": "pages/me/friend/friend"
+		},
+		{
+			"path": "pages/me/friend/sendFriend"
 		}
 	],
 	"globalStyle": {
