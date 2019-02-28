@@ -10,15 +10,15 @@
         <li class="iconfont">&#xeaf4;</li>
       </ul>
     </div>
-    <!-- 好友申请 -->
-    <div class="messageFriend" @click="handelClickmessage">
-      <span class="iconfont friend " :class="changeIcon"></span>
-      <span class="red"></span>
+    <!-- 好友申请/新消息 icon图标 -->
+    <div class="messageFriend" @click="handelClickmessage" :class="animateFriend">
+      <span class="iconfont friend" :class="changeIcon"></span>
+      <span class="red" v-show="iconShow.n"></span>
     </div>
     <!-- 申请组件 -->
     <scroll-view scroll-y="true" class="scroll-y" v-show="!messageShow" ref="mainFriendWindow">
-      <div :class="addMarginTop(index)" v-for="(item,index) in 5" :key="index">
-        <friendMessage ref="message" title="18324234745" message="我想和你交个朋友！"></friendMessage>
+      <div :class="addMarginTop(index)" v-for="(item,index) in newFriendsList" :key="index">
+        <friendMessage ref="message" :title="item.i" :message="item.message"></friendMessage>
       </div>
     </scroll-view>
     <!-- 列表，可滚动 -->
@@ -58,11 +58,15 @@ export default {
     scoketCard,
     friendMessage
   },
-  mounted() {
-    // 让两个引用的子级div的第一个元素添加margin
-    console.log(this.$refs.mainFriendWindow.childNodes);
-  },
   methods: {
+    // 抽离监听器的类名
+    changeAnmite(list) {
+      if (list.length != 0) {
+        this.animateFriend = "animateFriend";
+      } else {
+        this.animateFriend = "";
+      }
+    },
     // 给div加margintop类名
     addMarginTop(index) {
       if (index === 0) {
@@ -83,7 +87,7 @@ export default {
     conSocket() {
       let vueSelf = this;
       uni.connectSocket({
-        url: socketUrl + "/" + this.user,
+        url: socketUrl + "/" + 18291563764,
         data() {
           return {
             user: this.user,
@@ -100,8 +104,17 @@ export default {
           });
           // 监听服务器返回数据
           uni.onSocketMessage(function(res) {
-            console.log(res.data);
-            vueSelf.message.push(JSON.parse(res.data));
+            // 转换
+            let list = JSON.parse(res.data);
+            console.log(list)
+            // 提取type，判断返回消息类型是消息还是好友申请
+            if (list.type === "newFriend") {
+              // 好友请求列表添加
+              vueSelf.newFriendsList.push(list);
+            } else {
+              // 如果是消息列表
+              vueSelf.newMessageList.push(list);
+            }
           });
         }
       });
@@ -122,8 +135,30 @@ export default {
   data() {
     return {
       // 控制好友聊天/添加好友的界面变量
-      messageShow: true
+      messageShow: true,
+      // 监听好友申请列表的数组
+      newFriendsList: [],
+      // 好友新消息列表的数组
+      newMessageList: [],
+      // 维护消息icon的变量,n是红色小点点，s是动画效果
+      iconShow: {
+        n: false,
+        s: false
+      },
+      // icon动画效果
+      animateFriend: ""
     };
+  },
+  // 监听器监听好友列表的变化，做出icon动画效果
+  watch: {
+    newFriendsList(newValue) {
+      // 如果好友申请有变化
+      this.changeAnmite(newValue);
+    },
+    newMessageList(newValue) {
+      // 如果消息列表有变化 (有新消息)
+      this.changeAnmite(newValue);
+    }
   }
 };
 </script>
@@ -186,7 +221,11 @@ export default {
   left: 83%;
   top: 78%;
   box-shadow: 2px 2px 10px #969696;
-  animation: jump infinite 3s;
+
+  // 将单独的动画效果抽离
+  .animateFriend {
+    animation: jump infinite 3s;
+  }
 
   @keyframes jump {
     0% {
