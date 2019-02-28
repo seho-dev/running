@@ -1,4 +1,5 @@
 Core-Bundle-Version=15.0.0.201712201137
+com.genuitec.eclipse.dashboard.uidashboard.startup=false
 eclipse.preferences.version=1
 prev_allowInternetAccess=true
 repository_added=true

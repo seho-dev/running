@@ -231,4 +231,12 @@ public class UserServiceImpl implements UserService {
 		TbUser tbUser = userMapper.selectByExample(exmple).get(0);
 		return tbUser;
 	}
+
+	@Override
+	public List<TbUser> foundUserByUserNameMoke(String username) {
+		TbUserExample exmple = new TbUserExample();
+		Criteria createCriteria = exmple.createCriteria();
+		createCriteria.andUsernameLike(username);
+		return userMapper.selectByExample(exmple);
+	}
 }

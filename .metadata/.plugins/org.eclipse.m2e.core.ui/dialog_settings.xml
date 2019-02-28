@@ -7,13 +7,11 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="running-controller"/>
+			<item value="running-friend-controller"/>
 			<item value="running-parent"/>
-			<item value="runnin-user-service"/>
-			<item value="running-user-interface"/>
-			<item value="running-dao"/>
-			<item value="running-pojo"/>
-			<item value="running-common"/>
+			<item value="running-friend-service"/>
+			<item value="running-friend-interface"/>
+			<item value="running-talk-service"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -43,16 +41,17 @@
 		<item value="480" key="width"/>
 		<item value="807" key="x"/>
 		<item value="220" key="y"/>
-		<item value="450" key="height"/>
+		<item value="548" key="height"/>
 	</section>
 	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
-		<item value="1938" key="width"/>
-		<item value="-9" key="x"/>
-		<item value="-9" key="y"/>
-		<item value="1048" key="height"/>
+		<item value="1920" key="width"/>
+		<item value="0" key="x"/>
+		<item value="0" key="y"/>
+		<item value="1030" key="height"/>
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\LAOSHEN\Desktop\前端项目\websocket"/>
 			<item value="D:\running-working\running-parent\running-common"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -76,6 +75,11 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="running-friend-controller"/>
+			<item value="running-friend-service"/>
+			<item value="running-friend-interface"/>
+			<item value="running-talk-service"/>
+			<item value="running-chat-service"/>
 			<item value="running-controller"/>
 			<item value="runnin-user-service"/>
 			<item value="running-user-interface"/>
@@ -96,13 +100,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.running.controller"/>
+			<item value="org.running.friend.controller"/>
 		</list>
 		<list key="groupId">
 			<item value="com.running"/>
 		</list>
 		<list key="artifactId">
-			<item value="running-controller"/>
+			<item value="running-friend-controller"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

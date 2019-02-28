@@ -1,5 +1,7 @@
 package com.running.user.controller;
 
+import java.util.List;
+
 import javax.servlet.http.HttpServletResponse;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -39,7 +41,7 @@ public class UserController {
 	@RequestMapping("/insertUser")
 	public result registerUser(@RequestBody String user) {
 
-//		response.setHeader("Access-Control-Allow-Origin", "*"); // 解决跨域
+		// response.setHeader("Access-Control-Allow-Origin", "*"); // 解决跨域
 
 		/**
 		 * uniapp的post提交自动转换为字符串，需要转换成对象
@@ -49,7 +51,7 @@ public class UserController {
 		// 取出名为user的对象
 		rigisterUser rigister = JSON.parseObject(tb_user.getString("user"), rigisterUser.class);
 		TbUser userObject = new TbUser();
-		
+
 		userObject.setUsername(rigister.getUsername());
 		userObject.setPassword(rigister.getPassword());
 		// 判断是否注册成功( 传递主体对象和验证码 )
@@ -59,7 +61,7 @@ public class UserController {
 	// 发送验证码
 	@RequestMapping("/sendMessage")
 	public result sendMessage(final String phone) {
-//		response.setHeader("Access-Control-Allow-Origin", "*"); // 解决跨域
+		// response.setHeader("Access-Control-Allow-Origin", "*"); // 解决跨域
 		try {
 			// 发送手机号到消息队列
 			userservice.createSmsCode(phone);
@@ -75,7 +77,6 @@ public class UserController {
 		response.setHeader("Access-Control-Allow-Origin", "*"); // 解决跨域
 		JSONObject parseObject = JSON.parseObject(user);
 		TbUser tb_user = JSON.parseObject(parseObject.getString("user"), TbUser.class);
-
 		// 查询有无这个账号
 		boolean checkUser = userservice.checkUser(tb_user.getUsername());
 		if (checkUser) {
@@ -92,9 +93,24 @@ public class UserController {
 		}
 	}
 
+	// 通过用户名模糊搜索
+	@RequestMapping("/FoundMoke")
+	public String FoundUser(String username) {
+		List<TbUser> foundUserList = userservice.foundUserByUserNameMoke(username);
+		// 密码项取消
+		for (int i = 0; i < foundUserList.size(); i++) {
+			foundUserList.get(i).setPassword(null);
+		}
+		if (foundUserList.size() == 0) {
+			return null;
+		}
+		// list转换字符串
+		return JSON.toJSONString(foundUserList);
+	}
+
 	@RequestMapping("/searchUser")
 	public TbUser foundByUserName(String username) {
-//		response.setHeader("Access-Control-Allow-Origin", "*"); // 解决跨域
+		// response.setHeader("Access-Control-Allow-Origin", "*"); // 解决跨域
 		return userservice.foundUserByUserName(username);
 	}
 }

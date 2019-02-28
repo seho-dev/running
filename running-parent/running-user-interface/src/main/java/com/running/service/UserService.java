@@ -87,5 +87,10 @@ public interface UserService {
 	 * 通过用户名称查询对象
 	 */
 	public TbUser foundUserByUserName(String username);
+	
+	/**
+	 * 通过用户名称模糊查询对象
+	 */
+	public List<TbUser> foundUserByUserNameMoke(String username);
 
 }

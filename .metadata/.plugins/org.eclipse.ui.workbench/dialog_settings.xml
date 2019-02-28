@@ -17,38 +17,15 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
-		<item value="org.eclipse.ui.wizards.new.file" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="org.eclipse.m2e.core.wizards.Maven2ModuleWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.ui.Basic"/>
-			<item value="org.eclipse.team.cvs.ui.newWizards"/>
-			<item value="com.genuitec.eclipse.sqlexplorer.new"/>
-			<item value="com.genuitec.eclipse.hibernate"/>
-			<item value="org.eclipse.jdt.ui.java"/>
-			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.debug.ui.java"/>
-			<item value="org.eclipse.wst.jsdt.ui.java"/>
-			<item value="org.eclipse.jpt.jaxb"/>
-			<item value="org.eclipse.jpt.jaxb/org.eclipse.jpt.jaxb.eclipselink"/>
 			<item value="org.eclipse.m2e"/>
-			<item value="org.eclipse.pde.PDE"/>
-			<item value="org.skyway.designer.ui.category"/>
-			<item value="com.genuitec.eclipse.myeclipse.webstruts"/>
-			<item value="typescriptCategoryWizard"/>
-			<item value="com.genuitec.eclipse.myeclipse.uml"/>
-			<item value="org.eclipse.pde.userAssistance"/>
-			<item value="com.genuitec.eclipse.myeclipse.webservice"/>
-			<item value="org.eclipse.wb"/>
-			<item value="org.eclipse.wb/org.eclipse.wb.rcp"/>
-			<item value="org.eclipse.wb/org.eclipse.wb.rcp/org.eclipse.wb.rcp.forms"/>
-			<item value="org.eclipse.wb/org.eclipse.wb.rcp/org.eclipse.wb.rcp.rcp"/>
-			<item value="org.eclipse.wb/org.eclipse.wb.rcp/org.eclipse.wb.xwt"/>
-			<item value="org.eclipse.ui.Other"/>
-			<item value="org.eclipse.ui.Examples"/>
 		</list>
 	</section>
 	<section name="ImportExportAction">
-		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<item value="org.eclipse.m2e.core.wizards.Maven2ImportWizard" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
-			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.m2e"/>
 		</list>
 	</section>
 </section>
